@@ -1,0 +1,30 @@
+
+.cell{
+    padding: 14px;
+}
+.row{
+    margin-top: 10px;
+}
+.hide{
+    display: none;
+}
+.show{
+    display: block;
+}
+.main{
+    display: flex;
+    justify-content: center;
+    background-color: slategray;
+    height: 15vh;
+    font-size:45px;
+}
+.container{
+    margin-top: 20px;
+    background-color: rgb(177, 200, 223);
+    margin-bottom: 20px;
+}
+.inputs{
+    margin-top: 5px;
+    height: 6vh;
+    padding-left: 20px
+}
